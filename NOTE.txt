@@ -1,0 +1,3 @@
+N Katmanlý Mimari ile proje örneði
+C# Pro TEknikle videosundaki proje 
+Windows Form ile yapýldý.

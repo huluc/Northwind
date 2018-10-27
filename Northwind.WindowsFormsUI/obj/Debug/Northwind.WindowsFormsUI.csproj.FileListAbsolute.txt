@@ -1,0 +1,24 @@
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Northwind.WindowsFormsUI.exe.config
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Northwind.WindowsFormsUI.exe
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Northwind.WindowsFormsUI.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Northwind.DataAccessLayer.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Northwind.Entities.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\EntityFramework.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Northwind.DataAccessLayer.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Northwind.Entities.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\EntityFramework.xml
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\obj\Debug\Northwind.WindowsFormsUI.csprojResolveAssemblyReference.cache
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\obj\Debug\Northwind.WindowsFormsUI.Properties.Resources.resources
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\obj\Debug\Northwind.WindowsFormsUI.csproj.GenerateResource.Cache
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\obj\Debug\Northwind.WindowsFormsUI.exe
+c:\users\ulucay\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\obj\Debug\Northwind.WindowsFormsUI.pdb
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Northwind.BusinessLayer.dll
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Northwind.BusinessLayer.pdb
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\ULUCAY\Documents\Visual Studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ULUCAY\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\obj\Debug\Northwind.WindowsFormsUI.txtProductNameAdd.resources
+C:\Users\ULUCAY\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\ULUCAY\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\ULUCAY\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Ninject.dll
+C:\Users\ULUCAY\documents\visual studio 2015\Projects\Northwind\Northwind.WindowsFormsUI\bin\Debug\Ninject.xml
+D:\PROJELER\ENGİN DEMİROĞ\Northwind\Northwind.WindowsFormsUI\bin\Debug\Northwind.WindowsFormsUI.exe.config

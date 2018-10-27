@@ -1,0 +1,56 @@
+﻿using Northwind.DataAccessLayer.Abstract;
+using System;
+using System.Collections.Generic;
+using Northwind.Entities.Concrete;
+using System.Linq.Expressions;
+
+namespace Northwind.DataAccessLayer.Concrete.NHibernate
+{
+    class NhProductDal : IProductDal
+    {
+        public void Add(Product entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Delete(Product entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Product Get(Expression<Func<Product, bool>> filter)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Product Get(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Product> GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
+        {
+            throw new NotImplementedException();
+        }
+
+        public int GetProductAmount()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Product entity)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
